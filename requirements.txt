@@ -1,0 +1,7 @@
+pickle
+socket
+struct
+threading
+webbrowser
+kivy
+kivymd
